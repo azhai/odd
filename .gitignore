@@ -1,0 +1,21 @@
+/.editor_settings
+/.editorconfig
+/.internal
+/bin
+/build
+/dist
+/.build
+/odd
+.DS_Store
+.codebuddy/
+.gitattributes
+.workbuddy/
+Thumbs.db
+/tests/.out/
+
+# Python 工具运行期产物
+tools/__pycache__/
+
+# 编辑器/AI 工具的本地产物（不该进仓库）
+.agents/
+skills-lock.json
