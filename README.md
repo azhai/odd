@@ -1,6 +1,6 @@
 # odd
 
-用 [Odin](https://odin-lang.org) 重写的文本处理工具，是 [gx](../gx)（Go 版）的
+用 [Odin](https://odin-lang.org) 重写的文本处理工具，是 [gx](https://github.com/azhai/gx)（Go 版）的
 **逐参数复刻**：七个命令（find / list / replace / rename / cut / trans / script）、
 同一套选项语义、同一套退出码、同一套输出文本。
 
