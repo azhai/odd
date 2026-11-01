@@ -273,5 +273,5 @@ MIT，见 [LICENSE](LICENSE)。
 
 ## 致谢
 
-- 命令行语义、输出文本、测试用例全部来自 [gx](../gx)
+- 命令行语义、输出文本、测试用例全部来自 [gx](https://github.com/azhai/gx)
 - find/replace 的设计灵感分别来自 ripgrep，rename 来自 f2
